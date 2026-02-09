@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/8.-plumbing.md",
+                "file": "picoCTF/9.-Glitch Cat.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "8.-plumbing"
+              "title": "9.-Glitch Cat"
             }
           },
           {
@@ -137,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "picoCTF/8.-plumbing.md",
+                "file": "picoCTF/9.-Glitch Cat.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes de 8.-plumbing"
+              "title": "Enlaces entrantes de 9.-Glitch Cat"
             }
           },
           {
@@ -156,12 +156,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "picoCTF/8.-plumbing.md",
+                "file": "picoCTF/9.-Glitch Cat.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Enlaces salientes de 8.-plumbing"
+              "title": "Enlaces salientes de 9.-Glitch Cat"
             }
           },
           {
@@ -199,13 +199,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "picoCTF/8.-plumbing.md",
+                "file": "picoCTF/9.-Glitch Cat.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Esquema de 8.-plumbing"
+              "title": "Esquema de 9.-Glitch Cat"
             }
           },
           {
@@ -239,9 +239,10 @@
   },
   "active": "9c6322fbf683605d",
   "lastOpenFiles": [
+    "picoCTF/8.-plumbing.md",
+    "picoCTF/9.-Glitch Cat.md",
     "picoCTF/7.-what's a net cat.md",
     "picoCTF/2.-2warm.md",
-    "picoCTF/8.-plumbing.md",
     "picoCTF/6.-Obedient Cat.md",
     "picoCTF/5.-First Grep.md",
     "picoCTF/4.-Bases.md",
