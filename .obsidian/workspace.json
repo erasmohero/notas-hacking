@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/5.-First Grep.md",
+                "file": "picoCTF/6.-Obedient Cat.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5.-First Grep"
+              "title": "6.-Obedient Cat"
             }
           },
           {
@@ -137,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "picoCTF/5.-First Grep.md",
+                "file": "picoCTF/6.-Obedient Cat.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes de 5.-First Grep"
+              "title": "Enlaces entrantes de 6.-Obedient Cat"
             }
           },
           {
@@ -156,12 +156,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "picoCTF/5.-First Grep.md",
+                "file": "picoCTF/6.-Obedient Cat.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Enlaces salientes de 5.-First Grep"
+              "title": "Enlaces salientes de 6.-Obedient Cat"
             }
           },
           {
@@ -199,13 +199,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "picoCTF/5.-First Grep.md",
+                "file": "picoCTF/6.-Obedient Cat.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Esquema de 5.-First Grep"
+              "title": "Esquema de 6.-Obedient Cat"
             }
           },
           {
@@ -239,9 +239,10 @@
   },
   "active": "9c6322fbf683605d",
   "lastOpenFiles": [
+    "picoCTF/5.-First Grep.md",
+    "picoCTF/6.-Obedient Cat.md",
     "picoCTF/4.-Bases.md",
     "picoCTF/3.-Warmed Up.md",
-    "picoCTF/5.-First Grep.md",
     "Sin título.md",
     "picoCTF/2.-2warm.md",
     "picoCTF/Plantilla.md",
