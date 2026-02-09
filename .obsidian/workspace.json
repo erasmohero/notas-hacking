@@ -8,31 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7d48ea06c37ff3b4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Bienvenido.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Bienvenido"
-            }
-          },
-          {
             "id": "e1be5f1745105249",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "picoCTF/1.- Lets Warm Up.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "1.- Lets Warm Up"
             }
           },
           {
@@ -63,8 +49,7 @@
               "title": "1.- Lets Warm Up"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -207,13 +192,23 @@
               "icon": "lucide-list",
               "title": "Esquema de 1.- Lets Warm Up"
             }
+          },
+          {
+            "id": "17577c11c3c0803a",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -223,15 +218,17 @@
       "daily-notes:Abrir la nota de hoy": false,
       "templates:Insertar plantilla": false,
       "command-palette:Abrir paleta de comandos": false,
-      "bases:Crear nueva base": false
+      "bases:Crear nueva base": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a1df0244513fd05c",
+  "active": "deeb0b28228509f4",
   "lastOpenFiles": [
-    "picoCTF/Plantilla.md",
-    "picoCTF/1.- Lets Warm Up.md",
     "README.md",
-    "picoCTF",
-    "Bienvenido.md"
+    "Bienvenido.md",
+    "Sin título.md",
+    "picoCTF/1.- Lets Warm Up.md",
+    "picoCTF/Plantilla.md",
+    "picoCTF"
   ]
 }
