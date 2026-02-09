@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/2.-2warm.md",
+                "file": "picoCTF/3.-Warmed Up.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2.-2warm"
+              "title": "3.-Warmed Up"
             }
           },
           {
@@ -137,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "picoCTF/2.-2warm.md",
+                "file": "picoCTF/3.-Warmed Up.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes de 2.-2warm"
+              "title": "Enlaces entrantes de 3.-Warmed Up"
             }
           },
           {
@@ -156,12 +156,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "picoCTF/2.-2warm.md",
+                "file": "picoCTF/3.-Warmed Up.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Enlaces salientes de 2.-2warm"
+              "title": "Enlaces salientes de 3.-Warmed Up"
             }
           },
           {
@@ -199,13 +199,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "picoCTF/2.-2warm.md",
+                "file": "picoCTF/3.-Warmed Up.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Esquema de 2.-2warm"
+              "title": "Esquema de 3.-Warmed Up"
             }
           },
           {
@@ -239,9 +239,10 @@
   },
   "active": "3fa6f354eeac1e70",
   "lastOpenFiles": [
+    "picoCTF/2.-2warm.md",
+    "picoCTF/3.-Warmed Up.md",
     "picoCTF/Plantilla.md",
     "picoCTF/1.- Lets Warm Up.md",
-    "picoCTF/2.-2warm.md",
     "README.md",
     "Bienvenido.md",
     "picoCTF"
