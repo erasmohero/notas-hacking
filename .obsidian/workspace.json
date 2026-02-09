@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/Plantilla.md",
+                "file": "picoCTF/5.-First Grep.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Plantilla"
+              "title": "5.-First Grep"
             }
           },
           {
@@ -64,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -137,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "picoCTF/4.-Bases.md",
+                "file": "picoCTF/5.-First Grep.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes de 4.-Bases"
+              "title": "Enlaces entrantes de 5.-First Grep"
             }
           },
           {
@@ -156,12 +156,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "picoCTF/4.-Bases.md",
+                "file": "picoCTF/5.-First Grep.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Enlaces salientes de 4.-Bases"
+              "title": "Enlaces salientes de 5.-First Grep"
             }
           },
           {
@@ -199,13 +199,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "picoCTF/4.-Bases.md",
+                "file": "picoCTF/5.-First Grep.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Esquema de 4.-Bases"
+              "title": "Esquema de 5.-First Grep"
             }
           },
           {
@@ -237,10 +237,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3fa6f354eeac1e70",
+  "active": "9c6322fbf683605d",
   "lastOpenFiles": [
-    "picoCTF/3.-Warmed Up.md",
     "picoCTF/4.-Bases.md",
+    "picoCTF/3.-Warmed Up.md",
+    "picoCTF/5.-First Grep.md",
+    "Sin título.md",
     "picoCTF/2.-2warm.md",
     "picoCTF/Plantilla.md",
     "picoCTF/1.- Lets Warm Up.md",
