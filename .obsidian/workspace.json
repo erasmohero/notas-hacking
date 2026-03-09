@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF - General Skills 3/Plantilla 1.md",
+                "file": "picoCTF-Web 1/Client-side-again.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Plantilla 1"
+              "title": "Client-side-again"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 359.5
   },
   "right": {
     "id": "386d98fcde6bc167",
@@ -196,34 +196,38 @@
   },
   "active": "43a6c42598f5b239",
   "lastOpenFiles": [
+    "picoCTF-Web 1/picobrowser.png",
+    "picoCTF-Web 1/Client-side-again.md",
+    "picoCTF-Web 1/Captura de pantalla 2026-03-08 234837.png",
+    "picoCTF-Web 1/Plantilla 1.md",
+    "picoCTF-Web 1/picobrowser.md",
+    "picoCTF-Web 1/dont-use-client-side.md",
+    "picoCTF-Web 1/logon.md",
+    "picoCTF-Web 1/where are the robots.md",
+    "picoCTF-Web 1/Insp3ct0r.md",
+    "Plantilla.md",
+    "Tarea 1 - General Skills/ASCII Numbers.md",
+    "picoCTF-Web 1",
+    "Pasted image 20260308183223.png",
+    "Tarea 1 - General Skills/Plantilla 1.md",
+    "Tarea 1 - General Skills/binhexa.md",
+    "Tarea 1 - General Skills/Binary Search.md",
+    "Tarea 1 - General Skills/Collaborative Development.md",
+    "Tarea 1 - General Skills/Blame Game.md",
+    "Tarea 1 - General Skills/Time Machine.md",
+    "Tarea 1 - General Skills/Commitment Issues.md",
+    "Tarea 1 - General Skills/Special.md",
+    "Tarea 1 - General Skills/chrono.md",
+    "Tarea 1 - General Skills/permissions.md",
+    "picoCTF - General Skills 3/Plantilla 1.md",
+    "Tarea 1 - General Skills",
     "picoCTF - General Skills 3/PW Crack 2.md",
     "picoCTF - General Skills 3/Serpentine.md",
-    "picoCTF - General Skills 3/Plantilla 1.md",
     "picoCTF - General Skills 3/PW Crack 3.md",
     "picoCTF - General Skills 3/runme.py.md",
     "picoCTF - General Skills 3/PW Crack 1.md",
-    "picoCTF - General Skills 3/fixme1.py.md",
-    "Plantilla.md",
-    "picoCTF - General Skills 2/Static ain't always noise.md",
-    "picoCTF - General Skills 3/fixme2.py.md",
-    "picoCTF - General Skills 3/convertme.py.md",
-    "picoCTF - General Skills 3/Codebook.md",
-    "picoCTF - General Skills 3/Super SSH.md",
-    "picoCTF - General Skills 2/Plantilla 1.md",
     "picoCTF - General Skills 3",
-    "picoCTF - General Skills 2/First Find.md",
-    "picoCTF - General Skills 2/Big Zip.md",
-    "picoCTF - General Skills 2/Repeticiones.md",
-    "picoCTF - General Skills 2/Magikarp Ground Mission.md",
-    "picoCTF - General Skills 2/Tab, Tab, Attack.md",
-    "picoCTF - General Skills 2/useless.md",
-    "picoCTF - General Skills 2/Wave a flag.md",
-    "picoCTF - General Skills 2/strings it.md",
-    "picoCTF - General Skills 2/Based.md",
-    "picoCTF - General Skills 2/Plantilla Reto Descripción Solución Notas Referencias.md",
-    "Bandit parte 1/contraseñas.md",
     "picoCTF - General Skills 2",
-    "bandit parte 2/Bandit Level 10 → Level 11.md",
     "bandit parte 2",
     "picoCTF - General Skills 1"
   ]
