@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF-Web 1/Client-side-again.md",
+                "file": "picoCTF-Web 3/JaWT Scratchpad.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Client-side-again"
+              "title": "JaWT Scratchpad"
             }
           }
         ]
@@ -196,8 +196,21 @@
   },
   "active": "43a6c42598f5b239",
   "lastOpenFiles": [
-    "picoCTF-Web 1/picobrowser.png",
+    "picoCTF-Web 3/Plantilla 1.md",
+    "picoCTF-Web 3/JaWT Scratchpad.md",
+    "picoCTF-Web 3/More SQLi.md",
+    "picoCTF-Web 3/Irish-Name-Repo 1.md",
+    "Plantilla.md",
+    "picoCTF-Web 2/Scavenger Hunt.md",
+    "picoCTF-Web 3",
+    "picoCTF-Web 2/Plantilla 1.md",
+    "picoCTF-Web 2/Cookies.md",
+    "picoCTF-Web 2/GET aHEAD.md",
+    "concurso/SUDO MAKE ME A SANDWICH.md",
+    "concurso",
     "picoCTF-Web 1/Client-side-again.md",
+    "picoCTF-Web 2",
+    "picoCTF-Web 1/picobrowser.png",
     "picoCTF-Web 1/Captura de pantalla 2026-03-08 234837.png",
     "picoCTF-Web 1/Plantilla 1.md",
     "picoCTF-Web 1/picobrowser.md",
@@ -205,7 +218,6 @@
     "picoCTF-Web 1/logon.md",
     "picoCTF-Web 1/where are the robots.md",
     "picoCTF-Web 1/Insp3ct0r.md",
-    "Plantilla.md",
     "Tarea 1 - General Skills/ASCII Numbers.md",
     "picoCTF-Web 1",
     "Pasted image 20260308183223.png",
@@ -217,15 +229,7 @@
     "Tarea 1 - General Skills/Time Machine.md",
     "Tarea 1 - General Skills/Commitment Issues.md",
     "Tarea 1 - General Skills/Special.md",
-    "Tarea 1 - General Skills/chrono.md",
-    "Tarea 1 - General Skills/permissions.md",
-    "picoCTF - General Skills 3/Plantilla 1.md",
     "Tarea 1 - General Skills",
-    "picoCTF - General Skills 3/PW Crack 2.md",
-    "picoCTF - General Skills 3/Serpentine.md",
-    "picoCTF - General Skills 3/PW Crack 3.md",
-    "picoCTF - General Skills 3/runme.py.md",
-    "picoCTF - General Skills 3/PW Crack 1.md",
     "picoCTF - General Skills 3",
     "picoCTF - General Skills 2",
     "bandit parte 2",
